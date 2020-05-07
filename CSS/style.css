@@ -146,3 +146,13 @@ span{
     padding-top: 5%;
     padding-bottom: 5%;
 }
+.footer{
+    background-color: #1eb2a6;
+    color: #d4f8e8;
+    padding:2%;
+    text-align:center;
+    margin:0;
+}
+#foot{
+    margin:0;
+}
