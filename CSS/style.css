@@ -1,0 +1,148 @@
+.top{
+    background-color: #1eb2a6;
+    padding-bottom: 50px;
+    padding-top:10px;
+    margin:auto;
+    font-size: large;
+    color:#d4f8e8;
+    font-family: 'Caveat', cursive;
+}
+.middle{
+    text-align: center;
+    background-color:#d4f8e8;
+}
+.bottom{
+    height: 200px;
+    width: 200px;
+    background-color: #ffa34d;
+}
+body{
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    margin : 0;
+    width: 40%;
+    font-size:60px;
+    margin: auto;
+}
+#kanan-gunung{
+    position: relative;
+    left: 40%;
+    top :20px;
+    width :30%;
+}
+#kiri-gunung{
+    position: relative;
+    right: 40%;
+    top : 20px;
+    width :30%;
+}
+#topper-profile{
+    width: 80px;
+    position: absolute;
+    padding:3px;
+}
+#middler-profile{
+    width: 250px;
+    position: relative;
+    border-color: #1eb2a6;
+}
+.profil{
+    border-radius:100%;
+    border-style: solid;
+    border: 4;
+    padding:5px;
+    left: 10px;
+    top :10px;
+}
+.topper{
+    background-color:#1eb2a6;
+    height:40px;
+    color:#d4f8e8;
+}
+#hype{
+    margin : 0;
+    padding-top:10px;
+    position: absolute;
+    right: 10px;
+    font-size: 13px;
+}
+.capt-mid{
+    color:#1eb2a6;
+    font-size: 34px;
+    font-family: 'Righteous', cursive;
+}
+#desc-title{
+    font-size: larger;
+}
+#desc-capt{
+    font-size: large;
+    color: #1c867d;
+    font-family:'Jost', serif;
+}
+.symbol{
+    width: 18%;
+}
+#first-sym{
+    position: absolute;
+    left: 15%;
+    width: 15%;
+    padding-top: 5px;
+}
+#tabel1{
+    text-align: justify;
+    position: relative;
+    left :30%;
+    padding-top: 3%;
+    width: 55%;
+}
+.judul{
+    color:#1eb2a6 ;
+    font-family: 'Righteous', cursive;
+    font-size: larger;
+}
+.caption{
+    color:#1c867d;
+    font-family:'Jost', serif;
+}
+#second-sym{
+    position: absolute;
+    right:190px;
+    width: 15%;
+    padding-top: 40px;
+}
+#tabel2{
+    text-align: justify;
+    position: relative;
+    left :15%;
+    padding-top: 4%;
+    width: 55%;
+}
+#organisasi{
+    padding-top:30px;
+}
+#kompetensi{
+    padding-top:30px;
+}
+#third-sym{
+    position: absolute;
+    left: 15%;
+    width: 13%;
+    padding-top: 40px;
+}
+#tabel3{
+    text-align: justify;
+    position: relative;
+    left :30%;
+    top : 10%;
+    padding-top: 7%;
+    width: 55%;
+}
+span{
+    font-family: 'Jost',sans-serif ;
+}
+#study{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
