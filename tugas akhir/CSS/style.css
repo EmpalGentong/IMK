@@ -1,0 +1,30 @@
+.logo-left-top{
+    padding-top: 5;
+    padding-left: 5;
+    padding-bottom: 5;
+    position: absolute;
+    left: 1 ; top :1;
+}
+.store{
+    margin : 0;
+    text-align: right;
+    width : 50%;
+    position: absolute;
+    right:4px;top : 1;
+}
+.head{
+    background-image: url("bgBoba.jpeg");
+    background-size: cover;
+    height: 560px;
+    padding-bottom:5px;
+    background-color: grey;
+    margin-bottom:1;
+}
+.title{
+    position: relative;
+    top: 165px;
+}
+#demo{
+    position: relative;
+    top:90%;
+}
