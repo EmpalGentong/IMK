@@ -37,10 +37,7 @@
     padding:20px;
     padding-top:50px;
 }
-footer{
-    position: relative;
-    top:200%;
-}
+
 #about{
     margin-top: 40px;
 }
@@ -51,7 +48,7 @@ a{
 }
 .maps{
     position: relative;
-    top:200%;
+
     margin:20px;
 }
 iframe .rot{
