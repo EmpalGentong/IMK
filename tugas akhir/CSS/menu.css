@@ -2,3 +2,10 @@
     margin-bottom: 15px;
     background-color: #fc8210;
 }
+.card-body{
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+}
+h5{
+    font-size: 19pt;
+}
