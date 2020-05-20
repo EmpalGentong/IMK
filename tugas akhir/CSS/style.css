@@ -54,3 +54,20 @@ a{
 iframe .rot{
     padding: 15px;
 }
+body{
+    background-color: #ffd8a6;
+}
+#demo{
+    margin-left:30;
+}
+button{
+    background-color: #fc8210;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 3;
+}
