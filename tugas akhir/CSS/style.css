@@ -21,10 +21,39 @@
     margin-bottom:1;
 }
 .title{
-    position: relative;
-    top: 165px;
+    position: static;
+    top: 250px;
+    margin : 250px;
+    margin-top:180px;
 }
 #demo{
+    padding:5;
+    padding-top:30;
+    padding-right:0;
+}
+
+.menus{
+    text-align: center;
+    padding:20px;
+    padding-top:50px;
+}
+footer{
     position: relative;
-    top:90%;
+    top:200%;
+}
+#about{
+    margin-top: 40px;
+}
+a{
+    color:black !important;
+    scroll-behavior: smooth !important;
+    font-size: medium;
+}
+.maps{
+    position: relative;
+    top:200%;
+    margin:20px;
+}
+iframe .rot{
+    padding: 15px;
 }
